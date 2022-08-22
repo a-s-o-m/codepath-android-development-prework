@@ -1,6 +1,6 @@
 # Android Prework - *Simple Hello World App*
 
-Submitted by: **Angel Otero*
+Submitted by: **Angel Otero**
 
 **Simple Hello World App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
@@ -13,10 +13,6 @@ The following **required** functionality is completed:
 * [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
 * [x] Toast with message appears when button is pressed 
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
